@@ -1,6 +1,6 @@
 # BookColletion
 vue
-# vue练习项目
+# vue项目
 ## 简介
 这是一个移动web应用
 ### 项目所用
